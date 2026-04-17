@@ -1,0 +1,7 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="192" height="192" rx="24" fill="#1e40af"/>
+  <circle cx="96" cy="80" r="32" fill="white"/>
+  <path d="M96 116c-22 0-40-18-40-40s18-40 40-40" stroke="white" stroke-width="8" stroke-linecap="round"/>
+  <rect x="76" y="140" width="40" height="8" rx="4" fill="white"/>
+  <text x="96" y="170" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">BALAGOT</text>
+</svg>
