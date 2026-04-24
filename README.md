@@ -73,6 +73,10 @@ Create a comprehensive alumni portal for Ateneo de Davao University featuring:
 ## Video Link:
 https://drive.google.com/file/d/1R5KBlpgo8gWjIfULMnXmYc0mwMPiaF7G/view?usp=drive_link
 
+## Reference document:
+
+>[https://docs.google.com/document/d/15MJ0UUTx85zTlSI5XH1hmJZ4inzoYhlPsKg80DnidXA/edit?tab=t.qh2shoz8hbjp]
+
 ### Screenshots
 
 #### 🎓 Alumni Module
