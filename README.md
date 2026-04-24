@@ -71,7 +71,7 @@ Create a comprehensive alumni portal for Ateneo de Davao University featuring:
 - "Blue Knight" royal blue branding
 
 ## Video Link:
-[>[https://drive.google.com/file/d/1aVSqdvDU2o3KBuNaBk-S-fej6ZpL56Y4/view?usp=sharing](https://drive.google.com/file/d/1aVSqdvDU2o3KBuNaBk-S-fej6ZpL56Y4/view?usp=sharing)](https://drive.google.com/file/d/1R5KBlpgo8gWjIfULMnXmYc0mwMPiaF7G/view?usp=sharing)
+https://drive.google.com/file/d/1R5KBlpgo8gWjIfULMnXmYc0mwMPiaF7G/view?usp=drive_link
 
 ### Screenshots
 
